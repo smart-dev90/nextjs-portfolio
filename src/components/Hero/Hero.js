@@ -9,10 +9,10 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+          Welcome,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Steve Chou aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts.
+          Hey there, This is Steve Chou. I am senior Fullstack developer who majored Back-end & Frontend development, but also Server, Database, Project, Deployment management.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();

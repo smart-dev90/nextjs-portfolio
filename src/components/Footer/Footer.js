@@ -10,31 +10,25 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/lordarcadius">Telegram</LinkItem>
+          <LinkItem href="#">Skype - live:.cid.3bb11bae3e5b48bc</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hey@vipuljha.com">
-            hey@vipuljha.com
+          <LinkItem href="mailto:steve.chou77@outlook.com">
+            steve.chou77@outlook.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="https://www.vipuljha.com">  Steve Chou</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2021 <Link href="https://stevechou.vercel.app">  Steve Chou</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/lordarcadius">
+          <SocialIcons href="https://github.com/smart-dev90">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+          <SocialIcons href="https://www.linkedin.com/in/steve-chou-25851424b/">
             <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/lordarcadius">
-            <AiFillInstagram size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://www.twitter.com/lordarcadius">
-            <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

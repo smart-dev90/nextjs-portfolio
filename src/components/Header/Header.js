@@ -28,24 +28,13 @@ const Header = () => (
           <NavLink>About</NavLink>
         </Link>
       </li>
-      <li>
-        <a href="https://blog.vipuljha.com">
-          <NavLink>Blog</NavLink>
-        </a>
-      </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/lordarcadius">
+      <SocialIcons href="https://github.com/smart-dev90">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+      <SocialIcons href="https://www.linkedin.com/in/steve.chou77">
         <AiFillLinkedin size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/lordarcadius">
-        <AiFillInstagram size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.twitter.com/lordarcadius">
-        <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
